@@ -1,0 +1,761 @@
+﻿Matchweek,Team,Rank
+1,Liverpool,1
+1,Chelsea,2
+1,Bournemouth,3
+1,Crystal Palace,4
+1,Manchester City,5
+1,Watford,6
+1,Manchester United,7
+1,Tottenham Hotspur,8
+1,Everton,9
+1,Wolverhampton Wanderers,10
+1,Burnley,11
+1,Southampton,12
+1,Leicester City,13
+1,Newcastle United,14
+1,Arsenal,15
+1,Brighton and Hove Albion,16
+1,Cardiff City,17
+1,Fulham,18
+1,Huddersfield Town,19
+1,West Ham United,20
+2,Manchester City,1
+2,Liverpool,2
+2,Chelsea,3
+2,Watford,4
+2,Tottenham Hotspur,5
+2,Bournemouth,6
+2,Everton,7
+2,Leicester City,8
+2,Manchester United,9
+2,Crystal Palace,10
+2,Brighton and Hove Albion,11
+2,Newcastle United,12
+2,Southampton,13
+2,Wolverhampton Wanderers,14
+2,Burnley,15
+2,Cardiff City,16
+2,Arsenal,17
+2,Fulham,18
+2,West Ham United,19
+2,Huddersfield Town,20
+3,Liverpool,1
+3,Tottenham Hotspur,2
+3,Chelsea,3
+3,Watford,4
+3,Manchester City,5
+3,Bournemouth,6
+3,Leicester City,7
+3,Everton,8
+3,Arsenal,9
+3,Crystal Palace,10
+3,Fulham,11
+3,Brighton and Hove Albion,12
+3,Manchester United,13
+3,Wolverhampton Wanderers,14
+3,Cardiff City,15
+3,Newcastle United,16
+3,Southampton,17
+3,Burnley,18
+3,Huddersfield Town,19
+3,West Ham United,20
+4,Liverpool,1
+4,Chelsea,2
+4,Watford,3
+4,Manchester City,4
+4,Tottenham Hotspur,5
+4,Bournemouth,6
+4,Everton,7
+4,Leicester City,8
+4,Arsenal,9
+4,Manchester United,10
+4,Wolverhampton Wanderers,11
+4,Southampton,12
+4,Fulham,13
+4,Brighton and Hove Albion,14
+4,Crystal Palace,15
+4,Cardiff City,16
+4,Huddersfield Town,17
+4,Newcastle United,18
+4,Burnley,19
+4,West Ham United,20
+5,Chelsea,1
+5,Liverpool,2
+5,Manchester City,3
+5,Watford,4
+5,Bournemouth,5
+5,Tottenham Hotspur,6
+5,Arsenal,7
+5,Manchester United,8
+5,Wolverhampton Wanderers,9
+5,Everton,10
+5,Leicester City,11
+5,Crystal Palace,12
+5,Southampton,13
+5,Brighton and Hove Albion,14
+5,Fulham,15
+5,West Ham United,16
+5,Cardiff City,17
+5,Huddersfield Town,18
+5,Newcastle United,19
+5,Burnley,20
+6,Liverpool,1
+6,Manchester City,2
+6,Chelsea,3
+6,Watford,4
+6,Tottenham Hotspur,5
+6,Arsenal,6
+6,Manchester United,7
+6,Bournemouth,8
+6,Leicester City,9
+6,Wolverhampton Wanderers,10
+6,Crystal Palace,11
+6,Everton,12
+6,Brighton and Hove Albion,13
+6,Southampton,14
+6,Fulham,15
+6,Burnley,16
+6,West Ham United,17
+6,Newcastle United,18
+6,Cardiff City,19
+6,Huddersfield Town,20
+7,Manchester City,1
+7,Liverpool,2
+7,Chelsea,3
+7,Tottenham Hotspur,4
+7,Arsenal,5
+7,Watford,6
+7,Bournemouth,7
+7,Leicester City,8
+7,Wolverhampton Wanderers,9
+7,Manchester United,10
+7,Everton,11
+7,Burnley,12
+7,Crystal Palace,13
+7,West Ham United,14
+7,Brighton and Hove Albion,15
+7,Southampton,16
+7,Fulham,17
+7,Newcastle United,18
+7,Cardiff City,19
+7,Huddersfield Town,20
+8,Manchester City,1
+8,Chelsea,2
+8,Liverpool,3
+8,Arsenal,4
+8,Tottenham Hotspur,5
+8,Bournemouth,6
+8,Wolverhampton Wanderers,7
+8,Manchester United,8
+8,Watford,9
+8,Leicester City,10
+8,Everton,11
+8,Burnley,12
+8,Brighton and Hove Albion,13
+8,Crystal Palace,14
+8,West Ham United,15
+8,Southampton,16
+8,Fulham,17
+8,Huddersfield Town,18
+8,Newcastle United,19
+8,Cardiff City,20
+9,Manchester City,1
+9,Liverpool,2
+9,Chelsea,3
+9,Arsenal,4
+9,Tottenham Hotspur,5
+9,Bournemouth,6
+9,Watford,7
+9,Everton,8
+9,Wolverhampton Wanderers,9
+9,Manchester United,10
+9,Leicester City,11
+9,Brighton and Hove Albion,12
+9,Burnley,13
+9,West Ham United,14
+9,Crystal Palace,15
+9,Southampton,16
+9,Cardiff City,17
+9,Fulham,18
+9,Huddersfield Town,19
+9,Newcastle United,20
+10,Manchester City,1
+10,Liverpool,2
+10,Chelsea,3
+10,Arsenal,4
+10,Tottenham Hotspur,5
+10,Bournemouth,6
+10,Watford,7
+10,Manchester United,8
+10,Everton,9
+10,Wolverhampton Wanderers,10
+10,Brighton and Hove Albion,11
+10,Leicester City,12
+10,West Ham United,13
+10,Crystal Palace,14
+10,Burnley,15
+10,Southampton,16
+10,Cardiff City,17
+10,Fulham,18
+10,Newcastle United,19
+10,Huddersfield Town,20
+11,Manchester City,1
+11,Chelsea,2
+11,Liverpool,3
+11,Tottenham Hotspur,4
+11,Arsenal,5
+11,Bournemouth,6
+11,Manchester United,7
+11,Watford,8
+11,Everton,9
+11,Leicester City,10
+11,Wolverhampton Wanderers,11
+11,Brighton and Hove Albion,12
+11,West Ham United,13
+11,Crystal Palace,14
+11,Burnley,15
+11,Southampton,16
+11,Newcastle United,17
+11,Huddersfield Town,18
+11,Cardiff City,19
+11,Fulham,20
+12,Manchester City,1
+12,Liverpool,2
+12,Chelsea,3
+12,Tottenham Hotspur,4
+12,Arsenal,5
+12,Bournemouth,6
+12,Watford,7
+12,Manchester United,8
+12,Everton,9
+12,Leicester City,10
+12,Wolverhampton Wanderers,11
+12,Brighton and Hove Albion,12
+12,West Ham United,13
+12,Newcastle United,14
+12,Burnley,15
+12,Crystal Palace,16
+12,Southampton,17
+12,Cardiff City,18
+12,Huddersfield Town,19
+12,Fulham,20
+13,Manchester City,1
+13,Liverpool,2
+13,Tottenham Hotspur,3
+13,Chelsea,4
+13,Arsenal,5
+13,Everton,6
+13,Manchester United,7
+13,Bournemouth,8
+13,Watford,9
+13,Leicester City,10
+13,Wolverhampton Wanderers,11
+13,Brighton and Hove Albion,12
+13,Newcastle United,13
+13,West Ham United,14
+13,Huddersfield Town,15
+13,Crystal Palace,16
+13,Burnley,17
+13,Southampton,18
+13,Cardiff City,19
+13,Fulham,20
+14,Manchester City,1
+14,Liverpool,2
+14,Chelsea,3
+14,Arsenal,4
+14,Tottenham Hotspur,5
+14,Everton,6
+14,Manchester United,7
+14,Leicester City,8
+14,Bournemouth,9
+14,Watford,10
+14,Brighton and Hove Albion,11
+14,Wolverhampton Wanderers,12
+14,West Ham United,13
+14,Crystal Palace,14
+14,Newcastle United,15
+14,Cardiff City,16
+14,Huddersfield Town,17
+14,Southampton,18
+14,Burnley,19
+14,Fulham,20
+15,Manchester City,1
+15,Liverpool,2
+15,Tottenham Hotspur,3
+15,Chelsea,4
+15,Arsenal,5
+15,Everton,6
+15,Bournemouth,7
+15,Manchester United,8
+15,Leicester City,9
+15,Brighton and Hove Albion,10
+15,Watford,11
+15,Wolverhampton Wanderers,12
+15,West Ham United,13
+15,Newcastle United,14
+15,Crystal Palace,15
+15,Cardiff City,16
+15,Huddersfield Town,17
+15,Southampton,18
+15,Burnley,19
+15,Fulham,20
+16,Liverpool,1
+16,Manchester City,2
+16,Tottenham Hotspur,3
+16,Chelsea,4
+16,Arsenal,5
+16,Manchester United,6
+16,Everton,7
+16,Bournemouth,8
+16,Leicester City,9
+16,Wolverhampton Wanderers,10
+16,West Ham United,11
+16,Watford,12
+16,Brighton and Hove Albion,13
+16,Cardiff City,14
+16,Newcastle United,15
+16,Crystal Palace,16
+16,Burnley,17
+16,Huddersfield Town,18
+16,Southampton,19
+16,Fulham,20
+17,Liverpool,1
+17,Manchester City,2
+17,Tottenham Hotspur,3
+17,Chelsea,4
+17,Arsenal,5
+17,Manchester United,6
+17,Wolverhampton Wanderers,7
+17,Everton,8
+17,West Ham United,9
+17,Watford,10
+17,Bournemouth,11
+17,Leicester City,12
+17,Brighton and Hove Albion,13
+17,Newcastle United,14
+17,Crystal Palace,15
+17,Cardiff City,16
+17,Southampton,17
+17,Burnley,18
+17,Huddersfield Town,19
+17,Fulham,20
+18,Liverpool,1
+18,Manchester City,2
+18,Tottenham Hotspur,3
+18,Chelsea,4
+18,Arsenal,5
+18,Manchester United,6
+18,Watford,7
+18,Bournemouth,8
+18,Leicester City,9
+18,Wolverhampton Wanderers,10
+18,Everton,11
+18,West Ham United,12
+18,Brighton and Hove Albion,13
+18,Crystal Palace,14
+18,Newcastle United,15
+18,Southampton,16
+18,Cardiff City,17
+18,Burnley,18
+18,Huddersfield Town,19
+18,Fulham,20
+19,Liverpool,1
+19,Tottenham Hotspur,2
+19,Manchester City,3
+19,Chelsea,4
+19,Arsenal,5
+19,Manchester United,6
+19,Leicester City,7
+19,Everton,8
+19,West Ham United,9
+19,Watford,10
+19,Wolverhampton Wanderers,11
+19,Bournemouth,12
+19,Brighton and Hove Albion,13
+19,Crystal Palace,14
+19,Newcastle United,15
+19,Southampton,16
+19,Cardiff City,17
+19,Burnley,18
+19,Fulham,19
+19,Huddersfield Town,20
+20,Liverpool,1
+20,Manchester City,2
+20,Tottenham Hotspur,3
+20,Chelsea,4
+20,Arsenal,5
+20,Manchester United,6
+20,Wolverhampton Wanderers,7
+20,Leicester City,8
+20,Watford,9
+20,Everton,10
+20,West Ham United,11
+20,Bournemouth,12
+20,Brighton and Hove Albion,13
+20,Crystal Palace,14
+20,Newcastle United,15
+20,Cardiff City,16
+20,Southampton,17
+20,Burnley,18
+20,Fulham,19
+20,Huddersfield Town,20
+21,Liverpool,1
+21,Manchester City,2
+21,Tottenham Hotspur,3
+21,Chelsea,4
+21,Arsenal,5
+21,Manchester United,6
+21,Leicester City,7
+21,Watford,8
+21,Wolverhampton Wanderers,9
+21,West Ham United,10
+21,Everton,11
+21,Bournemouth,12
+21,Brighton and Hove Albion,13
+21,Crystal Palace,14
+21,Newcastle United,15
+21,Burnley,16
+21,Cardiff City,17
+21,Southampton,18
+21,Fulham,19
+21,Huddersfield Town,20
+22,Liverpool,1
+22,Manchester City,2
+22,Tottenham Hotspur,3
+22,Chelsea,4
+22,Arsenal,5
+22,Manchester United,6
+22,Watford,7
+22,Leicester City,8
+22,West Ham United,9
+22,Everton,10
+22,Wolverhampton Wanderers,11
+22,Bournemouth,12
+22,Brighton and Hove Albion,13
+22,Crystal Palace,14
+22,Burnley,15
+22,Southampton,16
+22,Cardiff City,17
+22,Newcastle United,18
+22,Fulham,19
+22,Huddersfield Town,20
+23,Liverpool,1
+23,Manchester City,2
+23,Tottenham Hotspur,3
+23,Chelsea,4
+23,Arsenal,5
+23,Manchester United,6
+23,Watford,7
+23,Wolverhampton Wanderers,8
+23,Leicester City,9
+23,West Ham United,10
+23,Everton,11
+23,Bournemouth,12
+23,Brighton and Hove Albion,13
+23,Crystal Palace,14
+23,Southampton,15
+23,Burnley,16
+23,Newcastle United,17
+23,Cardiff City,18
+23,Fulham,19
+23,Huddersfield Town,20
+24,Liverpool,1
+24,Manchester City,2
+24,Tottenham Hotspur,3
+24,Arsenal,4
+24,Chelsea,5
+24,Manchester United,6
+24,Wolverhampton Wanderers,7
+24,Everton,8
+24,Watford,9
+24,Bournemouth,10
+24,Leicester City,11
+24,West Ham United,12
+24,Brighton and Hove Albion,13
+24,Newcastle United,14
+24,Crystal Palace,15
+24,Southampton,16
+24,Burnley,17
+24,Cardiff City,18
+24,Fulham,19
+24,Huddersfield Town,20
+25,Manchester City,1
+25,Liverpool,2
+25,Tottenham Hotspur,3
+25,Chelsea,4
+25,Manchester United,5
+25,Arsenal,6
+25,Wolverhampton Wanderers,7
+25,Watford,8
+25,Everton,9
+25,Bournemouth,10
+25,Leicester City,11
+25,West Ham United,12
+25,Brighton and Hove Albion,13
+25,Crystal Palace,14
+25,Newcastle United,15
+25,Southampton,16
+25,Burnley,17
+25,Cardiff City,18
+25,Fulham,19
+25,Huddersfield Town,20
+26,Manchester City,1
+26,Liverpool,2
+26,Tottenham Hotspur,3
+26,Manchester United,4
+26,Arsenal,5
+26,Chelsea,6
+26,Wolverhampton Wanderers,7
+26,Watford,8
+26,Everton,9
+26,West Ham United,10
+26,Bournemouth,11
+26,Leicester City,12
+26,Crystal Palace,13
+26,Brighton and Hove Albion,14
+26,Burnley,15
+26,Newcastle United,16
+26,Cardiff City,17
+26,Southampton,18
+26,Fulham,19
+26,Huddersfield Town,20
+27,Liverpool,1
+27,Manchester City,2
+27,Tottenham Hotspur,3
+27,Arsenal,4
+27,Manchester United,5
+27,Chelsea,6
+27,Watford,7
+27,Wolverhampton Wanderers,8
+27,West Ham United,9
+27,Bournemouth,10
+27,Everton,11
+27,Leicester City,12
+27,Crystal Palace,13
+27,Burnley,14
+27,Newcastle United,15
+27,Brighton and Hove Albion,16
+27,Cardiff City,17
+27,Southampton,18
+27,Fulham,19
+27,Huddersfield Town,20
+28,Liverpool,1
+28,Manchester City,2
+28,Tottenham Hotspur,3
+28,Arsenal,4
+28,Manchester United,5
+28,Chelsea,6
+28,Wolverhampton Wanderers,7
+28,Watford,8
+28,Everton,9
+28,West Ham United,10
+28,Leicester City,11
+28,Bournemouth,12
+28,Newcastle United,13
+28,Crystal Palace,14
+28,Burnley,15
+28,Brighton and Hove Albion,16
+28,Southampton,17
+28,Cardiff City,18
+28,Fulham,19
+28,Huddersfield Town,20
+29,Manchester City,1
+29,Liverpool,2
+29,Tottenham Hotspur,3
+29,Manchester United,4
+29,Arsenal,5
+29,Chelsea,6
+29,Wolverhampton Wanderers,7
+29,Watford,8
+29,West Ham United,9
+29,Everton,10
+29,Leicester City,11
+29,Bournemouth,12
+29,Crystal Palace,13
+29,Newcastle United,14
+29,Brighton and Hove Albion,15
+29,Burnley,16
+29,Southampton,17
+29,Cardiff City,18
+29,Fulham,19
+29,Huddersfield Town,20
+30,Manchester City,1
+30,Liverpool,2
+30,Tottenham Hotspur,3
+30,Arsenal,4
+30,Manchester United,5
+30,Chelsea,6
+30,Wolverhampton Wanderers,7
+30,Watford,8
+30,West Ham United,9
+30,Leicester City,10
+30,Everton,11
+30,Bournemouth,12
+30,Newcastle United,13
+30,Crystal Palace,14
+30,Brighton and Hove Albion,15
+30,Southampton,16
+30,Burnley,17
+30,Cardiff City,18
+30,Fulham,19
+30,Huddersfield Town,20
+31,Liverpool,1
+31,Manchester City,2
+31,Tottenham Hotspur,3
+31,Arsenal,4
+31,Manchester United,5
+31,Chelsea,6
+31,Wolverhampton Wanderers,7
+31,Watford,8
+31,West Ham United,9
+31,Leicester City,10
+31,Everton,11
+31,Bournemouth,12
+31,Newcastle United,13
+31,Crystal Palace,14
+31,Brighton and Hove Albion,15
+31,Southampton,16
+31,Burnley,17
+31,Cardiff City,18
+31,Fulham,19
+31,Huddersfield Town,20
+32,Manchester City,1
+32,Liverpool,2
+32,Tottenham Hotspur,3
+32,Arsenal,4
+32,Chelsea,5
+32,Manchester United,6
+32,Wolverhampton Wanderers,7
+32,Watford,8
+32,Leicester City,9
+32,Everton,10
+32,West Ham United,11
+32,Bournemouth,12
+32,Crystal Palace,13
+32,Newcastle United,14
+32,Brighton and Hove Albion,15
+32,Southampton,16
+32,Burnley,17
+32,Cardiff City,18
+32,Fulham,19
+32,Huddersfield Town,20
+33,Liverpool,1
+33,Manchester City,2
+33,Chelsea,3
+33,Tottenham Hotspur,4
+33,Arsenal,5
+33,Manchester United,6
+33,Leicester City,7
+33,Wolverhampton Wanderers,8
+33,Everton,9
+33,Watford,10
+33,West Ham United,11
+33,Crystal Palace,12
+33,Bournemouth,13
+33,Burnley,14
+33,Newcastle United,15
+33,Brighton and Hove Albion,16
+33,Southampton,17
+33,Cardiff City,18
+33,Fulham,19
+33,Huddersfield Town,20
+34,Liverpool,1
+34,Manchester City,2
+34,Tottenham Hotspur,3
+34,Arsenal,4
+34,Chelsea,5
+34,Manchester United,6
+34,Leicester City,7
+34,Wolverhampton Wanderers,8
+34,Everton,9
+34,Watford,10
+34,West Ham United,11
+34,Bournemouth,12
+34,Crystal Palace,13
+34,Burnley,14
+34,Newcastle United,15
+34,Southampton,16
+34,Brighton and Hove Albion,17
+34,Cardiff City,18
+34,Fulham,19
+34,Huddersfield Town,20
+35,Manchester City,1
+35,Liverpool,2
+35,Tottenham Hotspur,3
+35,Chelsea,4
+35,Arsenal,5
+35,Manchester United,6
+35,Wolverhampton Wanderers,7
+35,Watford,8
+35,Everton,9
+35,Leicester City,10
+35,West Ham United,11
+35,Crystal Palace,12
+35,Newcastle United,13
+35,Bournemouth,14
+35,Burnley,15
+35,Southampton,16
+35,Brighton and Hove Albion,17
+35,Cardiff City,18
+35,Fulham,19
+35,Huddersfield Town,20
+36,Manchester City,1
+36,Liverpool,2
+36,Tottenham Hotspur,3
+36,Chelsea,4
+36,Arsenal,5
+36,Manchester United,6
+36,Wolverhampton Wanderers,7
+36,Leicester City,8
+36,Everton,9
+36,Watford,10
+36,West Ham United,11
+36,Crystal Palace,12
+36,Newcastle United,13
+36,Bournemouth,14
+36,Burnley,15
+36,Southampton,16
+36,Brighton and Hove Albion,17
+36,Cardiff City,18
+36,Fulham,19
+36,Huddersfield Town,20
+37,Manchester City,1
+37,Liverpool,2
+37,Chelsea,3
+37,Tottenham Hotspur,4
+37,Arsenal,5
+37,Manchester United,6
+37,Wolverhampton Wanderers,7
+37,Everton,8
+37,Leicester City,9
+37,Watford,10
+37,West Ham United,11
+37,Crystal Palace,12
+37,Bournemouth,13
+37,Newcastle United,14
+37,Burnley,15
+37,Southampton,16
+37,Brighton and Hove Albion,17
+37,Cardiff City,18
+37,Fulham,19
+37,Huddersfield Town,20
+38,Manchester City,1
+38,Liverpool,2
+38,Chelsea,3
+38,Tottenham Hotspur,4
+38,Arsenal,5
+38,Manchester United,6
+38,Wolverhampton Wanderers,7
+38,Everton,8
+38,Leicester City,9
+38,West Ham United,10
+38,Watford,11
+38,Crystal Palace,12
+38,Newcastle United,13
+38,Bournemouth,14
+38,Burnley,15
+38,Southampton,16
+38,Brighton and Hove Albion,17
+38,Cardiff City,18
+38,Fulham,19
+38,Huddersfield Town,20
