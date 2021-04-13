@@ -32,3 +32,6 @@ Once you have learned the basics, we will use the different visualization techni
 This book will teach you how to make effective data visualizations. To not lie with data. To do so, you need to learn the rules and the suggestions of data visualizations. You need to see how to lie with data so that you don’t lie with data.
 
 Take a test drive of “Box plots and violin plots” at https://www.alexkenan.com/pyviz/sample/
+
+<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a></center><br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International License</a>.
