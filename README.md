@@ -1,4 +1,6 @@
-Materials for *How to (Not) Lie with Data: Creating Effective Data Visualizations in Python*
+# How to (Not) Lie with Data: Creating Effective Data Visualizations in Python
+
+##### by Alex Kenan
 
 
 ### Background
