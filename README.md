@@ -1,9 +1,13 @@
 Materials for *How to (Not) Lie with Data: Creating Effective Data Visualizations in Python*
 
+
+### Background
 We have entered the age of big data: there are terabytes and terabytes of information available for analysis. With all of this information, it is becoming more necessary to make summaries that adequately convey the story behind the data, portray any patterns, and show any outliers. That need has led to the development of the field of data visualization, which seeks to create effective graphical representations and summaries of data. In the age of big data, everyone wants to make data-driven decisions, and data visualization is essential to understanding your data.
 
 Effective data visualization is important for all career fields. Unfortunately, many people do not have any training in data visualization. Whatever Excel spits out is what gets used. An effective data visualization makes use of natural human tendencies and intuitive understanding to convey a message. It is the difference between staring at rows on a spreadsheet and staring at a graph: one conveys a clear message, and one does not. This book will show you common lies associated with data visualization techniques and how to counter them to create effective graphs, charts, and visualizations.
-What you will learn:
+
+
+### What you will learn:
 
 This book uses three Python libraries to teach you about data visualization: Matplotlib, Seaborn, and Plotly. The three libraries have different advantages and drawbacks, and they provide different ways to drive an effective visualization home to your reader. This book is for anyone who has at least a beginner’s understanding of Python. It assumes a basic understanding of Python: how to write a function, understanding the default Python datatypes, how to download Python and get your environment set up, etc.
 
