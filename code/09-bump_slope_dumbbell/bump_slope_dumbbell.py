@@ -35,7 +35,7 @@ def add_team_color(df1: pd.DataFrame) -> str:
     """
     name = df1['Team']
     colors = {'Bournemouth': '#cc2900',
-              "Crystal Palace": "#0000FF",
+              'Crystal Palace': "#0000FF",
               'Liverpool': '#CD0206',
               'Chelsea': '#0000CC',
               'Manchester City': '#99CCFF',
